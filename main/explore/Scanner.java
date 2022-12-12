@@ -1,7 +1,6 @@
 // comment out this whole code before running the Main code.
 // these are some notes I made when learning the Scanner concept
 
-package org.example;
 import java.util.Scanner;
 
 public class Scanner {
@@ -16,9 +15,6 @@ public class Scanner {
 
 
 }
-// comment out this whole code before running the Main code.
-// these are some notes I made when learning the Scanner concept
-
 
 
 

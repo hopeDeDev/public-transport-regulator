@@ -1,8 +1,5 @@
 // Comment out the Scanner.java file to successfully run the program
 
-
-package org.example;
-
 import java.util.Scanner;
 
 public class Main {
