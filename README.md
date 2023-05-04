@@ -34,3 +34,12 @@ The Right Way:
            int numPpl = obj.nextInt();
            System.out.println("How many passengers?");
            int numPasseng = obj.nextInt();
+          
+
+How to install and Run the Project:
+
+You can clone the project, open your ide and make sure you are on the project directory and on the terminal run flutter update of you already have flutter installed, if not then dun flutter install then flutter update. All the red error messeges should be gone at this point then run the command 'flutter run d chrome' for the debbug screen to appear to see the progress.
+
+Flaws:
+
+The apps firebase has does not properly run on the log in, however you can comment out the code on both the log in and sign in page and jump straight to the home page.
